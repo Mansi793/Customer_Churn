@@ -1,7 +1,7 @@
 # Customer_Churn
 
 
-# Handling Imbalanced Data in Bank Customer Churn Prediction
+### Handling Imbalanced Data in Bank Customer Churn Prediction
 
 The churn variable has imbalanced data. So, the solution to handle imbalanced data are:
 
